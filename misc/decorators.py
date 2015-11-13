@@ -1,5 +1,3 @@
-from symbol import decorated
-
 def decorator_func(to_be_decorated_func):
     ''' Input parameter is a function, return result is a function.
     '''
